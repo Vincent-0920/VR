@@ -143,7 +143,7 @@ var APP_DATA = {
           "yaw": 0.46853244615167533,
           "pitch": 0.5642066237057897,
           "rotation": 8.63937979737193,
-          "target": "0-"
+          "target": "3-"
         }
       ],
       "infoHotspots": [
@@ -194,7 +194,7 @@ var APP_DATA = {
           "yaw": 3.008565942370029,
           "pitch": 0.44352776307837516,
           "rotation": 0,
-          "target": "1-"
+          "target": "2-"
         }
       ],
       "infoHotspots": [
@@ -234,8 +234,22 @@ var APP_DATA = {
         "yaw": 0,
         "fov": 1.5707963267948966
       },
-      "linkHotspots": [],
-      "infoHotspots": []
+      "linkHotspots": [
+	  {
+          "yaw": -2.6665099202578677,
+          "pitch": 0.25157462695488597,
+          "rotation": 0,
+          "target": "0-"
+        }
+	  ],
+      "infoHotspots": [
+	  {
+          "yaw": -0.6834691986927179,
+          "pitch": -0.13436636055597262,
+          "title": "人馬",
+          "text": "守護森林的種族"
+        }
+	  ]
     }
   ],
   "name": "hogwarts castle",
